@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My software development blog"
+title                    : "skahdi12's blog"
 title_separator          : "-"
 subtitle                 : "For better software development"
 name                     : "skahdi12"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jinpyo Ahn"
   avatar           : "/assets/images/my-photo.jpg"
-  bio              : "My awesome software development blog"
+  bio              : "My awesome development blog"
   location         : "Asia/Seoul"
   email            : "skahdi12@gmail.com"
   links:
