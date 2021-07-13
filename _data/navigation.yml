@@ -10,5 +10,4 @@ main:
     url: /categories/
   - title: "Year"
     url: /year-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  
