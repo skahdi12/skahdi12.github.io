@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "skahdi12's blog"
+title                    : "skahdi12"
 title_separator          : "-"
 subtitle                 : "for better software development"
 name                     : "안진표"
