@@ -8,6 +8,6 @@ main:
     url: /tags/
   - title: "Categories"
     url: /categories/
-  - title: "Search"
-    url: /Search/
+  #- title: "Search"
+  #  url: /Search/
   
